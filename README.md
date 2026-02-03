@@ -24,8 +24,4 @@ This app is perfect for **hackathons, students, entrepreneurs**, or anyone who w
 - **Environment Variables:** `.env` (or Hugging Face Secrets)
 
 
-##  Installation (Local)
 
-```bash
-git clone https://github.com/yourusername/ai-idea-validator.git
-cd ai-idea-validator
